@@ -1,1 +1,1 @@
-# github-trending-daily
+争取每天都更细GITHUB的热点内容
